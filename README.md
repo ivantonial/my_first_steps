@@ -7,7 +7,7 @@ git init
 
 git branch -M "main"
 
-git remote add origin main <link do repositório>
+git remote add origin main https://github.com/ivantonial/my_first_steps.git
 
 ## Questão 3:
 git add ola_mundo.txt
